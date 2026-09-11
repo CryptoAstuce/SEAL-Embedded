@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur le FHE embarqué, le provisionnement et les frontières de sécurité est disponible dans [`docs/fr/`](docs/fr/).
+
 # SEAL-Embedded
 
 SEAL-Embedded is an open-source ([MIT licensed](LICENSE)) homomorphic encryption toolset for embedded devices developed by the Cryptography and Privacy Reserach Group at Microsoft.
