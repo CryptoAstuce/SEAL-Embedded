@@ -1,11 +1,11 @@
-# Memoire et arithmetique
+# Mémoire et arithmétique
 
-Le code embarque evite les allocations et adapte ses buffers aux limites de la cible.
-La transformee NTT accelere les multiplications polynomiales requises par le chiffrement RLWE.
-Les representations RNS decoupent les coefficients selon plusieurs moduli machine.
-Les tables pre-calculees echangent de la memoire contre du temps de calcul sur le capteur.
-Les tailles compilees doivent rester coherentes avec les fichiers produits par l adapter.
-Un depassement de buffer ou une configuration tronquee peut invalider securite et interoperabilite.
-Les assertions de developpement ne remplacent pas les controles requis en version finale.
+Le code embarqué évite les allocations et adapte ses buffers aux limites de la cible.
+La transformée NTT accélère les multiplications polynomiales requises par le chiffrement RLWE.
+Les représentations RNS découpent les coefficients selon plusieurs moduli machine.
+Les tables pré-calculées échangent de la mémoire contre du temps de calcul sur le capteur.
+Les tailles compilées doivent rester cohérentes avec les fichiers produits par l’adapter.
+Un dépassement de buffer ou une configuration tronquée peut invalider sécurité et interopérabilité.
+Les assertions de développement ne remplacent pas les contrôles requis en version finale.
 
-Suite : [04 — Cles sur appareil](04-cles-sur-appareil.md).
+Suite : [04 — Clés sur appareil](04-cles-sur-appareil.md).

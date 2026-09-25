@@ -1,11 +1,11 @@
-# Cles sur appareil
+# Clés sur appareil
 
-Le mode symetrique stocke la cle secrete sur le dispositif et augmente fortement le risque physique.
-Une extraction compromet les donnees passees chiffrees avec cette cle ou sa cle publique associee.
-La documentation recommande le mode asymetrique sauf revue par des experts en securite et cryptographie.
-La rotation des cles doit inclure versionnement des parametres et rejet des artefacts obsoletes.
-Les fichiers de pre-calcul sont sensibles a la substitution meme lorsqu ils ne contiennent pas le secret.
-Les canaux entre appareil, adapter, serveur et decrypteur doivent avoir une authentification independante.
-Le chiffrement homomorphe protege le contenu, pas automatiquement l origine ni l integrite du transport.
+Le mode symétrique stocke la clé secrète sur le dispositif et augmente fortement le risque physique.
+Une extraction compromet les données passées chiffrées avec cette clé ou sa clé publique associée.
+La documentation recommande le mode asymétrique sauf revue par des experts en sécurité et cryptographie.
+La rotation des clés doit inclure versionnement des paramètres et rejet des artefacts obsolètes.
+Les fichiers de pré-calcul sont sensibles à la substitution même lorsqu’ils ne contiennent pas le secret.
+Les canaux entre appareil, adapter, serveur et décrypteur doivent avoir une authentification indépendante.
+Le chiffrement homomorphe protège le contenu, pas automatiquement l’origine ni l’intégrité du transport.
 
-Suite : [05 — Limites et verification](05-limites-et-verification.md).
+Suite : [05 — Limites et vérification](05-limites-et-verification.md).
