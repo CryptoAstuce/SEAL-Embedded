@@ -1,9 +1,9 @@
 # Parcours français — SEAL-Embedded
 
-1. [Role du capteur](01-role-du-capteur.md)
-2. [Chiffrement asymetrique](02-chiffrement-asymetrique.md)
-3. [Memoire et arithmetique](03-memoire-et-arithmetique.md)
-4. [Cles sur appareil](04-cles-sur-appareil.md)
-5. [Limites et verification](05-limites-et-verification.md)
+1. [Rôle du capteur](01-role-du-capteur.md)
+2. [Chiffrement asymétrique](02-chiffrement-asymetrique.md)
+3. [Mémoire et arithmétique](03-memoire-et-arithmetique.md)
+4. [Clés sur appareil](04-cles-sur-appareil.md)
+5. [Limites et vérification](05-limites-et-verification.md)
 
-Lecture orientee securite du FHE sur appareils contraints.
+Lecture orientée sécurité du FHE sur appareils contraints.

@@ -1,11 +1,11 @@
-# Chiffrement asymetrique
+# Chiffrement asymétrique
 
-Le mode asymetrique embarque une cle publique sur l appareil et garde la cle secrete ailleurs.
-Il limite les consequences d une lecture de la memoire du capteur par rapport au mode symetrique.
-Le contexte de chiffrement doit correspondre exactement aux parametres prepares par l adapter.
-Le degre polynomial et les moduli conditionnent securite, taille memoire et profondeur de calcul.
-Les valeurs encodees doivent rester dans le domaine attendu par le schema BFV compatible.
-Une cle publique remplacee par un attaquant detourne les donnees sans necessairement casser le chiffrement.
-Son authenticite doit donc etre protegee lors du provisionnement et des mises a jour.
+Le mode asymétrique embarque une clé publique sur l’appareil et garde la clé secrète ailleurs.
+Il limite les conséquences d’une lecture de la mémoire du capteur par rapport au mode symétrique.
+Le contexte de chiffrement doit correspondre exactement aux paramètres préparés par l’adapter.
+Le degré polynomial et les moduli conditionnent sécurité, taille mémoire et profondeur de calcul.
+Les valeurs encodées doivent rester dans le domaine attendu par le schéma BFV compatible.
+Une clé publique remplacée par un attaquant détourne les données sans nécessairement casser le chiffrement.
+Son authenticité doit donc être protégée lors du provisionnement et des mises à jour.
 
-Suite : [03 — Memoire et arithmetique](03-memoire-et-arithmetique.md).
+Suite : [03 — Mémoire et arithmétique](03-memoire-et-arithmetique.md).

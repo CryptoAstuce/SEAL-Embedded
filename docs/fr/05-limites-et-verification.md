@@ -1,10 +1,10 @@
-# Limites et verification
+# Limites et vérification
 
-SEAL-Embedded est presente comme code de recherche non destine a la production.
-Il ne realise sur le capteur ni generation de cles, ni evaluation homomorphe, ni dechiffrement.
-La compatibilite depend d artefacts adapter correspondant exactement a la configuration device.
-Les modes debug peuvent conserver des capacites et assertions qui changent le profil final.
-Ce parcours repose sur device/lib, adapter, user_defines et la politique SECURITY du depot.
-Aucune installation, compilation, execution sur cible ou mesure nouvelle n a ete effectuee.
-Aucune garantie materielle ou de resistance aux canaux auxiliaires n est revendiquee.
-Pour verifier, consulter les tests locaux et sur cible dans un environnement isole approprie.
+SEAL-Embedded est présenté comme code de recherche non destiné à la production.
+Il ne réalise sur le capteur ni génération de clés, ni évaluation homomorphe, ni déchiffrement.
+La compatibilité dépend d’artefacts adapter correspondant exactement à la configuration device.
+Les modes debug peuvent conserver des capacités et assertions qui changent le profil final.
+Ce parcours repose sur device/lib, adapter, user_defines et la politique SECURITY du dépôt.
+Aucune installation, compilation, exécution sur cible ou mesure nouvelle n’a été effectuée.
+Aucune garantie matérielle ou de résistance aux canaux auxiliaires n’est revendiquée.
+Pour vérifier, consulter les tests locaux et sur cible dans un environnement isolé approprié.
